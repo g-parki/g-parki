@@ -8,6 +8,8 @@ Languages I'm familiar with. Some more, some less:
 - Python
 - JavaScript
 - HTML/CSS
+- SQL
+- VBA
 - C++
 
 You can reach me at parkisongw@gmail.com
