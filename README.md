@@ -12,10 +12,6 @@ Languages I'm familiar with. Some more, some less:
 - VBA
 - C++
 
-You can reach me at parkisongw@gmail.com
-
-
-
 <!---
 g-parki/g-parki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
